@@ -1,0 +1,20 @@
+{
+  "gameName": "Simple Movement Game",
+  "version": "1.0",
+  "assets": {
+    "images": [
+      "player_sprite.png",
+      "background_image.jpg"
+    ],
+    "sounds": [
+      "background_music.mp3",
+      "jump_sound.wav"
+    ]
+  },
+  "settings": {
+    "screenWidth": 800,
+    "screenHeight": 600,
+    "fullscreen": false,
+    "frameRate": 60
+  }
+}
