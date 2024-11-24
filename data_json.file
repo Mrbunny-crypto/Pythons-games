@@ -1,0 +1,27 @@
+{
+  "player": {
+    "name": "Player1",
+    "score": 1500,
+    "level": 3,
+    "position": {
+      "x": 375,
+      "y": 275
+    }
+  },
+  "settings": {
+    "volume": 80,
+    "musicEnabled": true
+  },
+  "achievements": [
+    {
+      "title": "First Step",
+      "description": "Completed Level 1",
+      "unlocked": true
+    },
+    {
+      "title": "Champion",
+      "description": "Scored 10000 points",
+      "unlocked": false
+    }
+  ]
+}
